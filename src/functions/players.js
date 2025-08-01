@@ -1,11 +1,13 @@
 let playerOne = {
     cards: [],
-    name: 'Player One'
+    name: 'John'
 }
 
 let playerTwo = {
     cards: [],
-    name: 'Player Two',
+    name: 'Jane',
 }
+
+console.log(playerOne)
 
 export { playerOne, playerTwo };
