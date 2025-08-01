@@ -1,0 +1,208 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.7">
+  <diagram name="Page-1" id="Gk6S4yuLcRchhUSLxEXO">
+    <mxGraphModel dx="1325" dy="460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yezaPWBQS1P_JSCsNEap-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-1" target="yezaPWBQS1P_JSCsNEap-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-1" value="&lt;div&gt;War&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="20" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-2" value="First player to hold all 52 cards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.589;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-1" target="yezaPWBQS1P_JSCsNEap-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-5" target="yezaPWBQS1P_JSCsNEap-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-5" value="Each player gets 26 random cards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-7" value="Both players draw their top card at the same time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-10" target="yezaPWBQS1P_JSCsNEap-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-10" target="yezaPWBQS1P_JSCsNEap-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-10" value="Same card drawn?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="790" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-24" target="yezaPWBQS1P_JSCsNEap-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-24" value="true" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="790" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-26" target="yezaPWBQS1P_JSCsNEap-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-26" value="false" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="880" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-28" target="yezaPWBQS1P_JSCsNEap-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-28" target="yezaPWBQS1P_JSCsNEap-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-28" value="Is Player One card &amp;gt; Player Two card?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="960" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-30" target="yezaPWBQS1P_JSCsNEap-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-30" value="true" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1050" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-31" target="yezaPWBQS1P_JSCsNEap-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-31" value="false" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1050" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-34" target="yezaPWBQS1P_JSCsNEap-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-34" value="Player One gains Player Two&#39;s card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-37" target="yezaPWBQS1P_JSCsNEap-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-37" target="yezaPWBQS1P_JSCsNEap-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-37" value="Is Player&#39;s array === &#39;WinningArray&#39; ?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-38" value="Player Wins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1400" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-41" target="yezaPWBQS1P_JSCsNEap-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="1335" />
+              <mxPoint x="780" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-41" value="false" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-43" target="yezaPWBQS1P_JSCsNEap-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-43" value="true&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-45" target="yezaPWBQS1P_JSCsNEap-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-45" value="Player Two gains Player One&#39;s card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-55" target="yezaPWBQS1P_JSCsNEap-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-55" value="declare war" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="890" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-7" target="yezaPWBQS1P_JSCsNEap-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="360" as="sourcePoint" />
+            <mxPoint x="255" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-57" target="yezaPWBQS1P_JSCsNEap-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-57" value="Does Player One have cards?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="410" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-59" target="yezaPWBQS1P_JSCsNEap-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;fillColor=#f8cecc;strokeColor=#CC0000;startSize=10;endSize=10;strokeWidth=4;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60.249999999999886" y="1447.48" as="targetPoint" />
+            <mxPoint x="257.75" y="522.5144827586207" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="295" y="523" />
+              <mxPoint x="-61" y="523" />
+              <mxPoint x="-61" y="1446" />
+              <mxPoint x="2" y="1446" />
+              <mxPoint x="2" y="1448" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-59" value="true" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-60" value="false" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="500" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-57" target="yezaPWBQS1P_JSCsNEap-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="460" as="sourcePoint" />
+            <mxPoint x="255" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-62" target="yezaPWBQS1P_JSCsNEap-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-62" target="yezaPWBQS1P_JSCsNEap-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-62" value="Does Player Two have cards?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-70" target="yezaPWBQS1P_JSCsNEap-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;fillColor=#f8cecc;strokeColor=#CC0000;startSize=10;endSize=10;strokeWidth=4;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-71" target="yezaPWBQS1P_JSCsNEap-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70.24999999999989" y="1457.48" as="targetPoint" />
+            <mxPoint x="267.75" y="532.5144827586207" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="295" y="762" />
+              <mxPoint x="-13" y="762" />
+              <mxPoint x="-13" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-70" value="true" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-71" value="false" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yezaPWBQS1P_JSCsNEap-81" target="yezaPWBQS1P_JSCsNEap-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="693.6666412353516" y="781" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="636" y="1015" />
+              <mxPoint x="636" y="770" />
+              <mxPoint x="286" y="770" />
+              <mxPoint x="286" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yezaPWBQS1P_JSCsNEap-81" value="draw 4th card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="990" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
